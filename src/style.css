@@ -311,4 +311,13 @@ input[type="color"] {
   #filter {
     margin-left: -0.9rem;
   }
+
+  #color-picker{
+    margin-right: -15px;
+    left: -0.4rem;
+  }
+
+  .triangulo-derecha {
+    left: 10px;
+  }
 }
