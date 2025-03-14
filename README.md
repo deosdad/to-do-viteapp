@@ -18,12 +18,12 @@ El objetivo de este proyecto es poner en práctica mis habilidades en JavaScript
 
 - **Añadir tareas**: Permite agregar tareas con un nombre y asignarlas a una categoría específica.
 - **Categorías con colores**: Cada categoría tiene un color asociado para una mejor organización:
-- <span style="color:#a0c8ff;">Azul</span> (#a0c8ff): Trabajo
-- <span style="color:#a8e5a4;">Verde</span> (#a8e5a4): Personal
-- <span style="color:#f7919a;">Rojo</span> (#f7919a): Urgente
-- <span style="color:#c6a2f0;">Morado</span> (#c6a2f0): Creativo
-- <span style="color:#ffeb99;">Amarillo</span> (#ffeb99): Ocio
-- <span style="color:#f3b3c1;">Rosa</span> (#f3b3c1): Estudio
+  - Azul (#a0c8ff): Trabajo
+  - Verde (#a8e5a4): Personal
+  - Rojo (#f7919a): Urgente
+  - Morado (#c6a2f0): Creativo
+  - Amarillo (#ffeb99): Ocio
+  - Rosa (#f3b3c1): Estudio
 - **Editar tareas**: Se pueden modificar los detalles de una tarea existente.
 - **Eliminar tareas**: Permite eliminar tareas de la lista.
 - **Marcar tareas como completadas**: Se pueden marcar como hechas y visualizarlas separadamente.
